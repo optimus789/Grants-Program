@@ -1,15 +1,11 @@
 # Mintflick Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines. Blockquote sections starting with a `>` (such as this one) can be removed.
->
-> See the [Grants Program Process](https://github.com/Mintbase/Grants-Program/#pencil-process) on how to submit a proposal.
 
 - **Project Name:** Mintflick
 - **Team Name:** Mintflick
 - **Payment Address:** 339e718263bbd9cd3f7fb7c9295b252210e4d460ce5a74cebc8370b12c956693
 - **[Level](../README.md#level_slider-levels):** 2
 
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview :page_facing_up:
 
